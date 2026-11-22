@@ -1,0 +1,1 @@
+{"version":3,"file":"array_interface.js","sourceRoot":"","sources":["../../src/functions/array_interface.ts"],"names":[],"mappings":";;AAUA,IAAI,QAAQ,GAAe;IACzB,UAAU,EAAE;QACV,EAAE,EAAE,EAAE,GAAG,EAAE,IAAI,EAAE,SAAS,EAAE,SAAS,EAAE,iCAAiC,EAAE;QAC1E,EAAE,EAAE,EAAE,GAAG,EAAE,IAAI,EAAE,OAAO,EAAE;KAC3B;CACF,CAAA;AAED,OAAO,CAAC,GAAG,CAAC,QAAQ,CAAC,CAAA"}
